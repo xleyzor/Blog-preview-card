@@ -9,9 +9,9 @@
 
 <ul>
     <li>
-    Solution URL: <a href="https://www.frontendmentor.io/solutions/testimonials-grid-section-pLXnXs5gUc">Click Here!</a>
+    Solution URL: <a href="https://www.frontendmentor.io/solutions/blog-preview-card-Gpvq_SMlc7">Click Here!</a>
     </li>
     <li>
-    Live site URL: <a href="https://testimonials-grid-section-rho-rose.vercel.app">Click Here!</a>
+    Live site URL: <a href="https://blog-preview-card-khaki-ten.vercel.app">Click Here!</a>
     </li>
 </ul>
